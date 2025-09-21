@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   const features = [
     { id: 'f1', title: 'Скорость', description: 'Наше приложение работает быстро' },
-    { id: 'f2', title: 'Надежность', description: 'Гарантированное качества' },
+    { id: 'f2', title: 'Надежность', description: 'Гарантия качества' },
     { id: 'f3', title: 'Безопасность', description: 'Ваши данные под защитой' },
     { id: 'f4', title: 'Удобство', description: 'Простой и интуитивный интерфейс' },
   ];
@@ -25,5 +25,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
